@@ -1,6 +1,9 @@
 # JavaScript Objects and Inheritance: A Comprehensive Guide
 
+![](napkin-selection.png)
+
 ## Table of Contents
+
 1. [Object Literals vs Object Constructors](#object-literals-vs-object-constructors)
 2. [Object Composition](#object-composition)
 3. [Prototype Inheritance](#prototype-inheritance)
